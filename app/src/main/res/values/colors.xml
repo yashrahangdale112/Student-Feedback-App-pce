@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pce_blue">#1A237E</color>
+    <color name="pce_blue_dark">#0D47A1</color>
+    <color name="accent_gold">#FFD600</color>
+
+    <!-- Colorful Palette -->
+    <color name="vibrant_pink">#FF2E63</color>
+    <color name="vibrant_orange">#FF9F1C</color>
+    <color name="vibrant_teal">#20C997</color>
+    <color name="vibrant_indigo">#6610F2</color>
+    <color name="vibrant_cyan">#08D9D6</color>
+    <color name="vibrant_purple">#6F42C1</color>
+    <color name="vibrant_yellow">#FFD600</color>
+
+    <color name="status_submitted">#2196F3</color>
+    <color name="status_resolved">#4CAF50</color>
+    <color name="status_pending">#FFC107</color>
+
+    <color name="gradient_start">#FF4081</color>
+    <color name="gradient_end">#3F51B5</color>
+    <color name="background_light">#F5F5F5</color>
+</resources>

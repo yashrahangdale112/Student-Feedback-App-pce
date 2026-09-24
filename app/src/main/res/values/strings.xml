@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Priyadarshini Student Feedback</string>
+    <string name="college_name">Priyadarshini College of Engineering</string>
+    <string name="college_motto">तन्त्रज्ञानं प्रसारयितव्यम्</string>
+    <string name="college_motto_eng">Technology should be disseminated</string>
+    <string name="college_parent">Lokmanya Tilak Jankalyan Shikshan Sanstha (LTJSS)</string>
+    <string name="mission_statement">Priyadarshini College of Engineering (PCE), Nagpur, established in 1990, is committed to providing quality technical education. Our Student Feedback App empowers every student to contribute to the excellence of our A+ NAAC Accredited institution.</string>
+    <string name="college_address">Priyadarshini Campus, Digdoh Hills, Hingna Road, Nagpur - 440019</string>
+</resources>

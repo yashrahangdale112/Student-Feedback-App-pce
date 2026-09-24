@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_give_feedback"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Give Feedback" />
+        <item
+            android:id="@+id/nav_my_feedback"
+            android:icon="@android:drawable/ic_menu_view"
+            android:title="My Feedback" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@android:drawable/ic_menu_report_image"
+            android:title="Reports" />
+    </group>
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="About PCE" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

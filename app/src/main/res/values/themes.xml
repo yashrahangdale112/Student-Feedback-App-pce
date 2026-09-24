@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StudentFeedbackApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pce_blue</item>
+        <item name="colorPrimaryVariant">@color/pce_blue_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/vibrant_pink</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/pce_blue_dark</item>
+        <!-- Accent and Surface -->
+        <item name="colorSurface">@color/background_light</item>
+        <item name="colorOnSurface">@color/black</item>
+    </style>
+
+    <style name="Theme.StudentFeedbackApp" parent="Base.Theme.StudentFeedbackApp" />
+</resources>
